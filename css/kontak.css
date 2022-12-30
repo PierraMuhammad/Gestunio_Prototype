@@ -1,0 +1,56 @@
+.kontak-con{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 70px;
+    padding-bottom: 125px;
+}
+
+.contact{
+    /* background-color: aqua; */
+    height: 500px;
+    width: 100%;
+}
+
+.contact-box{
+    display: flex;
+}
+
+.contact-label{
+    font-size: 16px;
+}
+
+.contact-box-left, .contact-box-right{
+    width: 100%;
+}
+
+.contact-label, .contact-input{
+    margin-left: 12px;
+}
+
+.contact-input{
+    width: 80%;
+    height: 30px;
+    border-radius: 12px;
+    border-style: solid;
+    padding-left: 12px;
+    margin-bottom: 12px;
+}
+
+#tipe-layanan{
+    width: 120px;
+}
+
+#pesan{
+    border-radius: 12px;
+    border-style: solid;
+    padding-top: 12px;
+    padding-left: 12px;
+    /* margin-left: 50px; */
+}
+
+.button-contact-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    align-self: center;
+}

@@ -1,0 +1,19 @@
+.jumbotron{
+    padding-top: 300px;
+    text-align: center;
+}
+
+.title{
+    font-size: 64px;
+    font-weight: 500;
+}
+
+.desc{
+    font-size: 28px;
+}
+
+.btn-jum{
+    background-color: var(--primary);
+    margin-top: 12px;
+    color: #fff;
+}
